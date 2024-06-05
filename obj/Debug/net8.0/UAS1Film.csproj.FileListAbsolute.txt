@@ -1,0 +1,14 @@
+F:\ngodingc#\UAS1Film\obj\Debug\net8.0\UAS1Film.GeneratedMSBuildEditorConfig.editorconfig
+F:\ngodingc#\UAS1Film\obj\Debug\net8.0\UAS1Film.AssemblyInfoInputs.cache
+F:\ngodingc#\UAS1Film\obj\Debug\net8.0\UAS1Film.AssemblyInfo.cs
+F:\ngodingc#\UAS1Film\obj\Debug\net8.0\UAS1Film.csproj.CoreCompileInputs.cache
+F:\ngodingc#\UAS1Film\bin\Debug\net8.0\UAS1Film.exe
+F:\ngodingc#\UAS1Film\bin\Debug\net8.0\UAS1Film.deps.json
+F:\ngodingc#\UAS1Film\bin\Debug\net8.0\UAS1Film.runtimeconfig.json
+F:\ngodingc#\UAS1Film\bin\Debug\net8.0\UAS1Film.dll
+F:\ngodingc#\UAS1Film\bin\Debug\net8.0\UAS1Film.pdb
+F:\ngodingc#\UAS1Film\obj\Debug\net8.0\UAS1Film.dll
+F:\ngodingc#\UAS1Film\obj\Debug\net8.0\refint\UAS1Film.dll
+F:\ngodingc#\UAS1Film\obj\Debug\net8.0\UAS1Film.pdb
+F:\ngodingc#\UAS1Film\obj\Debug\net8.0\UAS1Film.genruntimeconfig.cache
+F:\ngodingc#\UAS1Film\obj\Debug\net8.0\ref\UAS1Film.dll
