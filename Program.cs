@@ -44,6 +44,7 @@ class Program{
         }
         else{
             i++;
+            Console.Clear();
         }
         }
     }
@@ -93,6 +94,7 @@ class Program{
         filmtoupdate.Durasi = durasibaru;
         filmtoupdate.Rating = ratingtambah;
         Console.WriteLine("Film telah diperbarui...");
+        Console.Clear();
     }
     static void HapusFilm(){
         TampilFilm();
@@ -111,9 +113,11 @@ class Program{
             Console.WriteLine($"Sukses menghapus film {filmdihapus.Judul}!!");
             Daftar_Film.Remove(filmdihapus);
             Thread.Sleep(2000);
+            Console.Clear();
         }
         else{
             Console.WriteLine("Gagal menghapus film!...");
+            Console.Clear();
             return;
             }
         
