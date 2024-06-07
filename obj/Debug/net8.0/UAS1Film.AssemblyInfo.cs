@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("UAS1Film")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+53ca03b963dbf2f87f748884c3f9ceb6e87408c1")]
 [assembly: System.Reflection.AssemblyProductAttribute("UAS1Film")]
 [assembly: System.Reflection.AssemblyTitleAttribute("UAS1Film")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

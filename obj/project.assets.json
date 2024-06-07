@@ -8,26 +8,24 @@
     "net8.0": []
   },
   "packageFolders": {
-    "C:\\Users\\daffa\\.nuget\\packages\\": {}
+    "C:\\Users\\user\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\ngodingc#\\UAS1Film\\UAS1Film.csproj",
+      "projectUniqueName": "C:\\c#.net\\daffa_UAS_1_Pemro1\\UAS1Film.csproj",
       "projectName": "UAS1Film",
-      "projectPath": "F:\\ngodingc#\\UAS1Film\\UAS1Film.csproj",
-      "packagesPath": "C:\\Users\\daffa\\.nuget\\packages\\",
-      "outputPath": "F:\\ngodingc#\\UAS1Film\\obj\\",
+      "projectPath": "C:\\c#.net\\daffa_UAS_1_Pemro1\\UAS1Film.csproj",
+      "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
+      "outputPath": "C:\\c#.net\\daffa_UAS_1_Pemro1\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\daffa\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {

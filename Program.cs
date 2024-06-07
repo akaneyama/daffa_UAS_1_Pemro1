@@ -113,6 +113,7 @@ class Program{
             Thread.Sleep(2000);
         }
         else{
+            Console.WriteLine("Gagal menghapus film!...");
             return;
             }
         
@@ -123,9 +124,16 @@ class Program{
         Daftar_Film.Add(new Film{ID_Film = FilmTambah++, Judul = "Oppenheimer", Tahun = 2023, Genre = "Action", Durasi = "3 Jam", Rating = 10});
         int j = 0;
         while (j == 0){
+            
+            Console.ForegroundColor = ConsoleColor.Blue; 
         Console.WriteLine("=================================");
+        Console.ResetColor();
+        Console.ForegroundColor = ConsoleColor.Cyan; 
         Console.WriteLine("=Aplikasi Manajemen Film Favorit=");
+        Console.ResetColor();
+        Console.ForegroundColor = ConsoleColor.Blue;
         Console.WriteLine("=================================");
+        Console.ResetColor();
         Console.WriteLine("Tekan 1 Untuk Menambah Film Baru!");
         Console.WriteLine("Tekan 2 Untuk Melihat Daftar Film");
         Console.WriteLine("Tekan 3 Untuk Mengpdate Info Film");
